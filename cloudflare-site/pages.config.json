@@ -1,0 +1,6 @@
+{
+  "name": "vet-agent",
+  "branch": "main",
+  "buildCommand": null,
+  "outputDirectory": "."
+}
