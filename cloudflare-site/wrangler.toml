@@ -1,7 +1,0 @@
-[site]
-bucket = "./cloudflare-site"
-site.entry-point = "workers-site"
-
-[env.production]
-name = "vet-agent"
-route = "vetagent.ai/*"
